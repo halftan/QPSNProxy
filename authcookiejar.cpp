@@ -20,6 +20,7 @@
 
 #include "authcookiejar.h"
 
+#include <QDataStream>
 #include <QDateTime>
 #include <QDebug>
 #include <QDir>
